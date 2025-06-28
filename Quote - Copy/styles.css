@@ -1,0 +1,25 @@
+h1 {
+    font-family: sans-serif;
+    margin: 100px 120px 50px 120px;
+    text-align: center;
+}
+
+fieldset {
+    margin: 100px 120px 100px 120px;
+}
+
+#num {
+    margin: 0 0 0 30px;
+}
+
+.title {
+    margin: 0 0 0 50px;
+}
+
+#by {
+    font-style: italic;
+}
+
+#quote {
+    margin: 20px 0 30px 120px;
+}
